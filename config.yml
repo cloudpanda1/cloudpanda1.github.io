@@ -1,4 +1,4 @@
-baseURL: 'https://rainypanda1.github.io/cloudpanda-blog'
+baseURL: '/'
 title: CLOUDPANDA
 theme: hugo-theme-ladder
 license: MIT
