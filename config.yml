@@ -20,11 +20,11 @@ menu:
       weight: 3
 params:
   brand: CLOUDPANDA
-  avatarURL: /images/avatar.png
+  avatarURL: /images/pikachu_avatar.png
   author: cloudpanda
   authorDescription: Just a person doing stuff
   info: Probably won't write much but I think it'll be fun to write and see the writings from me of the past.
-  favicon: /images/avatar.png
+  favicon: /images/pikachu_avatar.png
   options:
     showDarkMode: true
     enableImgZooming: true
