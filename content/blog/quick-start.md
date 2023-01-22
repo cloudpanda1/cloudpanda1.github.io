@@ -1,22 +1,16 @@
 ---
-title: Qucik Start
-date: 2022-08-19T21:34:36+08:00
-tags: ["hugo", "ladder", "Tutorial"]
-series: ["how to create your blog"]
+title: First Post
+date: 2023-01-22
+tags: ["Random"]
 featured: true
 ---
-This article is about how to quickly install and use this theme.
+This is the first blog post!
 <!--more-->
-## how to install
+### Welcome
+to the new blog. I really don't think I'll write much but it's still fun to have. \n
+Plus there's really fun syntax highlighting.
 
-Just click `Use this template` to create your blog site in https://github.com/guangzhengli/hugo-ladder-exampleSite
-
-![4dmtph](https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/4dmtph.png)
-
-Create a new repository(GitHub Pages) from hugo-ladder-exampleSite to enter : `username.github.io`. **replace the username by your GitHub account.**
-
-Then configure the GitHub page setting following:
-
-![nsrExo](https://cdn.jsdelivr.net/gh/guangzhengli/PicURL@master/uPic/nsrExo.png)
-
-🎉🎉🎉 Open the browser and enter: https://username.github.io 🎉🎉🎉
+```rust
+let hello: str = "Ooh it's rust";
+```
+This is using the [Hugo Ladder theme](https://github.com/guangzhengli/hugo-theme-ladder)
