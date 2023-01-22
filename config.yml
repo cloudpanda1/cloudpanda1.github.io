@@ -1,10 +1,10 @@
-baseURL: '/'
+baseURL: 'https://cloudpanda1.github.io'
 title: CLOUDPANDA
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A simple blog'
-homepage: 'https://rainypanda1.github.io/cloudpanda-blog'
+homepage: 'https://cloudpanda1.github.io/'
 defaultContentLanguage: 'en'
 paginate: 10
 menu:
